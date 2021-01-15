@@ -15,8 +15,7 @@ Wessam Eldin Reda
 
 ### Project Links:
 
-1. **Code:** [Jupyter Notebook](https://github.com/Thomas-George-T/A-Tale-of-Two-Cities/blob/master/Tale_of_Two_Cities_A_Data_Science_Take.ipynb)
-2. **Blog Post:** [Medium Article](https://medium.com/@thomas_george_thomas/a-tale-of-two-cities-clustering-neighborhoods-of-london-and-paris-5328f69cd8b6)
+1. **Code:** [Jupyter Notebook](https://github.com/wessameldin/Applied_Data_Science_Capstone/blob/master/Tale_of_Two_Cities_A_Data_Science_Take.ipynb)
 3. **Report:** [Report](https://github.com/Thomas-George-T/A-Tale-of-Two-Cities/blob/master/DS_Report.ipynb)
 
 # Introduction
