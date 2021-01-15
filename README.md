@@ -7,10 +7,10 @@
 Clustering the Neighbourhoods of London and Paris
   <br>
   <br>
-Thomas George Thomas
+Wessam Eldin Reda
 <br>
   <br>
-18th August 2020
+15th Jan 2021
 </h2>
 
 ### Project Links:
